@@ -10,7 +10,7 @@ export const navLinks = [
   {
     url: "/",
     icon: <LayoutDashboard />,
-    label: "Статистиа",
+    label: "Статистика",
   },
   {
     url: "/collections",
